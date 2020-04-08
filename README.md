@@ -1,5 +1,5 @@
 # Python 
-Tarea 4 de Lenguajes de Programación, semestre 2019-2
+Tarea 1 de Lenguajes de Programación, semestre 2019-2
 
 ## Importante
 Tener en consideración la funcion **select**, puesto que *inner join* no esta implementado. Si trata de ejecutarlo, devolvera 'Error de Sintaxis'.
